@@ -23,8 +23,9 @@ I'm a passionate software developer with a strong focus on web technologies. Cur
 - **Other Tools:** NPM
 
 ## 🌱 What I'm Currently Working On
+- **Learning:** Making an full end project that is a Travel Assist App
 - **Learning:** Advanced JavaScript concepts and building full-stack applications with the MERN stack
-- **Projects:** Developing an e-commerce app and enhancing backend skills with Node.js
+- **Projects:** Developing a Product-sells and enhancing backend skills with Node.js
 
 ## 📂 Pinned Repositories
 Here are some of my favorite projects that showcase my work:
