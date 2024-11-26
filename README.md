@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Akash Vyas!
 
-I'm a passionate software developer with a strong focus on web technologies. Currently pursuing my B.Sc. in IT, I love tackling projects that push me to grow and expand my skill set. I'm dedicated to becoming a top programmer and eventually building a business that solves real-world problems.
+software developer with a strong focus on web technologies. Currently pursuing my B.Sc. in IT, I love tackling projects that push me to grow and expand my skill set. I'm dedicated to becoming a top programmer and eventually building a business that solves real-world problems.
 
 ## 🔧 Technologies & Tools
 
